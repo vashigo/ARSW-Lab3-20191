@@ -11,7 +11,7 @@
         >cambio el mensaje a ingles
 
         <p align="center">
-        <img src=".\img\1-result.png" />
+        <img src=".\img\1-result.PNG" />
         </p>
 
      + ## Part 2:
@@ -21,5 +21,5 @@
         >cambio el mensaje a español
 
         <p align="center">
-        <img src=".\img\2-result.png" />
+        <img src=".\img\2-result.PNG" />
         </p>
